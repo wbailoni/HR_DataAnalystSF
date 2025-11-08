@@ -1,0 +1,101 @@
+employee_id,first_name,last_name,department,job_title,hire_date,employment_status,position_id,salary_x,supervisor_id,gender,race_ethnicity,salary_y,job_level
+1000,Danielle,Johnson,Engineering,Systems Engineer,2020-07-10,Active,P120,96048,1002.0,Non-Binary,White,92033.55867530865,Mid
+1001,John,Taylor,Finance,Accountant,2017-08-03,Terminated,P121,73434,1009.0,Female,Black,75193.88464907072,Senior
+1002,Erica,Mcclain,Engineering,Systems Engineer,2017-04-29,Terminated,P122,115302,,Female,White,110592.14884695337,Senior
+1003,Brittany,Johnson,HR,HR Analyst,2017-06-10,Active,P123,90495,1007.0,Female,Hispanic,92860.05507212318,Junior
+1004,Jeffery,Wagner,Customer Service,Service Rep,2016-04-18,Terminated,P124,86062,1009.0,Male,White,83371.63116739762,Manager
+1005,Anna,Baldwin,Engineering,Project Engineer,2025-02-12,Active,P125,118878,1008.0,Non-Binary,Other,119025.89431773384,Junior
+1006,Robert,Cole,Water Operations,Operations Supervisor,2020-07-30,Active,P126,115392,1004.0,Male,White,113706.2877445344,Junior
+1007,Lisa,Smith,Water Operations,Operations Supervisor,2018-07-25,Active,P127,104118,1000.0,Non-Binary,Other,107079.51910917538,Manager
+1008,Helen,Peterson,HR,HR Specialist,2018-06-29,Active,P128,107052,1004.0,Male,Hispanic,106129.31955888176,Junior
+1009,Jason,Gallagher,Customer Service,CSR Lead,2017-08-02,Active,P129,120217,1007.0,Non-Binary,Other,125088.28389612291,Mid
+1010,Christopher,Davis,HR,HR Specialist,2021-09-12,Active,P130,132357,1003.0,Non-Binary,Other,127983.69869914379,Manager
+1011,Cassandra,Roman,Engineering,Project Engineer,2023-08-30,Terminated,P131,85203,1000.0,Male,Black,83234.12024496592,Senior
+1012,Amanda,Dudley,HR,Recruiter,2022-04-15,On Leave,P132,70458,1002.0,Female,Black,67380.86768742136,Manager
+1013,Christian,Carter,HR,HR Specialist,2021-12-31,On Leave,P133,119429,1009.0,Female,Asian,117037.46119335984,Junior
+1014,Barbara,Bush,Water Operations,Operations Supervisor,2016-08-16,On Leave,P134,106566,1002.0,Female,Hispanic,111299.89931562553,Manager
+1015,Donna,Mejia,Engineering,Project Engineer,2017-03-15,Terminated,P135,149593,1009.0,Non-Binary,Other,145038.61456045127,Junior
+1016,Melissa,Delacruz,HR,Recruiter,2022-04-25,Terminated,P136,92087,1001.0,Male,Hispanic,87544.96867482833,Manager
+1017,Joshua,Reid,Infrastructure,Engineer II,2022-01-19,On Leave,P137,143886,1007.0,Female,Other,142157.78462301742,Senior
+1018,Francisco,Kelly,Finance,Budget Officer,2020-05-21,On Leave,P138,67331,1002.0,Female,Hispanic,66863.8320772594,Mid
+1019,Jacqueline,Sutton,HR,HR Manager,2017-01-22,On Leave,P139,95093,1000.0,Female,Hispanic,96074.46691449925,Mid
+1020,Chelsea,Jackson,Finance,Budget Officer,2020-01-05,Terminated,P140,101245,1002.0,Female,Hispanic,97981.23855347064,Manager
+1021,Frank,Gray,Engineering,Project Engineer,2025-04-27,On Leave,P141,144259,1006.0,Female,Hispanic,147647.274108418,Manager
+1022,Jeffrey,Nguyen,Finance,Financial Analyst,2016-10-18,Active,P142,92325,1007.0,Non-Binary,Black,90717.49468719163,Senior
+1023,Jeremy,Johnson,Customer Service,CSR Lead,2021-03-19,Terminated,P143,136622,1005.0,Female,Hispanic,131346.85822375183,Mid
+1024,Richard,Jones,Customer Service,CSR Lead,2025-06-30,On Leave,P144,88746,1001.0,Non-Binary,Other,85905.48204101717,Junior
+1025,Nancy,Edwards,Customer Service,CSR Lead,2024-05-04,Active,P145,66175,1000.0,Non-Binary,Asian,69106.38650277718,Mid
+1026,Randall,Rocha,Finance,Budget Officer,2023-08-27,Active,P146,149192,1005.0,Female,Hispanic,154134.45956051163,Junior
+1027,Douglas,Taylor,Customer Service,Service Rep,2025-05-25,On Leave,P147,110019,1008.0,Female,Asian,106049.28478999286,Senior
+1028,Amber,Burgess,Infrastructure,Civil Engineer,2023-02-19,On Leave,P148,132512,,Male,Hispanic,134614.47472861543,Manager
+1029,Rachael,Ross,Engineering,Systems Engineer,2019-07-30,Terminated,P149,130381,1003.0,Female,White,129716.926812901,Manager
+1030,Wendy,Taylor,Engineering,Project Engineer,2024-03-29,Active,P150,98469,1005.0,Non-Binary,Asian,98807.41236289713,Manager
+1031,Christopher,Williams,Finance,Financial Analyst,2017-09-17,Active,P151,94522,1007.0,Non-Binary,White,97269.95225213301,Senior
+1032,Eric,Moore,Finance,Budget Officer,2023-01-11,Active,P152,141959,1003.0,Non-Binary,Other,143290.8585338715,Junior
+1033,Candace,Cruz,Engineering,Systems Engineer,2023-10-23,Active,P153,109009,1001.0,Male,Black,110726.99976741045,Senior
+1034,Allison,Maddox,Customer Service,Service Rep,2016-01-16,Terminated,P154,102487,1006.0,Male,Other,97816.63352295887,Manager
+1035,Erin,Wilson,HR,HR Analyst,2024-12-24,On Leave,P155,100306,1002.0,Female,Asian,96353.38741934001,Junior
+1036,Karen,Mack,HR,Recruiter,2021-08-19,Terminated,P156,70322,1000.0,Female,Black,70397.07745862022,Mid
+1037,Daniel,Graham,Engineering,Project Engineer,2023-07-26,Active,P157,129822,1001.0,Female,Hispanic,128408.68200460507,Mid
+1038,Aaron,Bowen,Finance,Budget Officer,2020-04-29,On Leave,P158,132063,1001.0,Female,White,131835.4697731205,Senior
+1039,Teresa,Gill,Water Operations,Water Quality Analyst,2024-06-25,Active,P159,130686,1002.0,Female,White,125668.56375005066,Mid
+1040,Rita,Harrell,Engineering,Project Engineer,2020-12-03,On Leave,P160,148039,1009.0,Female,Hispanic,145715.77483654095,Mid
+1041,Meagan,Romero,Water Operations,Water Quality Analyst,2019-03-25,Terminated,P161,119177,1000.0,Non-Binary,Asian,117369.08844521464,Junior
+1042,Eric,Farmer,Finance,Accountant,2025-01-08,Active,P162,104313,,Female,Asian,102423.9903984071,Senior
+1043,Stephanie,Nielsen,Customer Service,Service Rep,2015-11-09,Terminated,P163,88864,,Male,White,84621.50036774093,Senior
+1044,Carol,Burns,HR,HR Analyst,2017-10-01,Active,P164,68834,,Non-Binary,White,70053.3208840211,Mid
+1045,Sarah,Koch,Water Operations,Operations Supervisor,2021-01-28,Terminated,P165,91195,1003.0,Non-Binary,Black,91340.85638834853,Mid
+1046,John,Allen,Engineering,Project Engineer,2025-07-01,Active,P166,130678,1001.0,Female,Other,129715.80983129142,Manager
+1047,Stacey,Miller,Engineering,Project Engineer,2024-02-11,Active,P167,121993,1005.0,Male,Asian,123575.98505809667,Mid
+1048,Lisa,Spence,Finance,Accountant,2024-11-28,Active,P168,146374,1005.0,Non-Binary,Asian,144845.59750161244,Mid
+1049,Katie,Anderson,Water Operations,Water Quality Analyst,2023-12-07,On Leave,P169,121213,,Female,Other,120359.08885286596,Junior
+1050,Stacey,Martin,Engineering,Systems Engineer,2024-10-27,Active,P170,112772,1004.0,Non-Binary,Black,109454.07273072116,Junior
+1051,Monique,Henderson,HR,Recruiter,2019-06-14,Active,P171,84931,1007.0,Non-Binary,White,87474.7034672745,Mid
+1052,Sarah,Campos,Infrastructure,Engineer I,2019-04-08,On Leave,P172,84050,1003.0,Female,Hispanic,81503.90928261512,Junior
+1053,Jennifer,Ross,Infrastructure,Engineer I,2022-03-14,Active,P173,118082,1007.0,Female,Asian,118409.2644947688,Senior
+1054,Samuel,Holmes,HR,HR Analyst,2017-11-26,Terminated,P174,130855,,Non-Binary,Asian,132311.52634481443,Junior
+1055,John,Brown,HR,Recruiter,2016-03-15,Active,P175,113269,1006.0,Female,Hispanic,117182.64559905783,Mid
+1056,Brianna,Hall,Infrastructure,Engineer I,2019-08-05,On Leave,P176,67685,1001.0,Non-Binary,Hispanic,70518.85304140403,Junior
+1057,Adrian,Zimmerman,Infrastructure,Engineer I,2016-11-05,On Leave,P177,94760,1006.0,Non-Binary,Black,92989.74811834736,Mid
+1058,Jeremy,Whitehead,Water Operations,Water Quality Analyst,2021-06-20,Terminated,P178,132845,1009.0,Female,White,128634.40490377459,Mid
+1059,Chad,Young,Engineering,Project Engineer,2024-02-08,Active,P179,84890,1003.0,Non-Binary,Asian,84195.93177262737,Mid
+1060,Jason,Anderson,Finance,Accountant,2025-07-24,Terminated,P180,131066,,Non-Binary,Asian,130057.30010112077,Manager
+1061,Barbara,Sanchez,Engineering,Project Engineer,2023-11-22,Active,P181,66572,1008.0,Non-Binary,Other,67859.72167849123,Mid
+1062,Lindsey,Lee,Infrastructure,Civil Engineer,2017-06-30,Terminated,P182,80635,,Non-Binary,Black,80551.47847820088,Mid
+1063,Donna,Gomez,Customer Service,Service Rep,2022-11-03,Active,P183,68981,1008.0,Male,Hispanic,71340.04820563532,Junior
+1064,Stuart,Daniel,HR,Recruiter,2017-07-09,On Leave,P184,75713,1008.0,Female,White,75596.4695117991,Mid
+1065,Bruce,Chandler,Finance,Budget Officer,2017-09-14,Terminated,P185,65209,1008.0,Female,Other,65244.46078286173,Manager
+1066,John,Lee,HR,HR Specialist,2023-06-24,Terminated,P186,136503,1008.0,Female,Asian,135351.3301306222,Manager
+1067,Donald,White,Customer Service,CSR Lead,2023-09-19,On Leave,P187,86772,1009.0,Female,Black,83150.74955407433,Junior
+1068,John,Leblanc,Engineering,Project Engineer,2023-05-21,Active,P188,94814,1005.0,Male,Hispanic,90383.29519653611,Mid
+1069,Lindsey,Chase,Finance,Budget Officer,2017-07-06,Terminated,P189,99321,1006.0,Non-Binary,Hispanic,96025.61838479778,Manager
+1070,Brent,Kidd,Water Operations,Operations Supervisor,2016-02-05,Active,P190,120068,1008.0,Non-Binary,Asian,120665.05235251147,Junior
+1071,Tanya,House,Customer Service,Service Rep,2019-11-13,Active,P191,130468,1002.0,Non-Binary,White,127439.6930230673,Senior
+1072,Gabriel,Tucker,Customer Service,CSR Lead,2019-06-26,Active,P192,105745,1000.0,Non-Binary,White,108494.41368212072,Manager
+1073,Michelle,Barrera,Finance,Financial Analyst,2018-08-25,On Leave,P193,80676,1006.0,Non-Binary,Black,84627.31466221793,Junior
+1074,Nicholas,Galloway,Customer Service,CSR Lead,2020-05-10,Terminated,P194,145717,1007.0,Non-Binary,Black,142769.27528963884,Junior
+1075,Sara,Glover,HR,HR Manager,2020-09-12,Terminated,P195,73577,1001.0,Female,Hispanic,72462.87482236554,Junior
+1076,Rodney,Bernard,Water Operations,Operations Supervisor,2025-04-20,Active,P196,132512,1001.0,Female,White,136164.4501189001,Mid
+1077,Dorothy,Tucker,Water Operations,Water Quality Analyst,2019-01-28,Terminated,P197,87607,1004.0,Male,Other,89263.94261661002,Manager
+1078,Kenneth,Novak,Finance,Budget Officer,2025-09-12,Terminated,P198,94600,1007.0,Male,Other,91187.1627776673,Mid
+1079,Jill,Brown,Infrastructure,Engineer II,2021-03-07,Active,P199,72097,1009.0,Male,White,72602.2150037406,Senior
+1080,Brian,Silva,Infrastructure,Engineer II,2024-05-26,Active,P200,60464,1004.0,Non-Binary,Other,58458.87689733609,Senior
+1081,Samantha,Schmidt,Finance,Budget Officer,2016-10-24,On Leave,P201,81178,1006.0,Female,Other,79289.3375434322,Junior
+1082,Susan,Miller,Customer Service,CSR Lead,2019-01-03,Terminated,P202,61267,1000.0,Male,Asian,63832.6702667678,Senior
+1083,Casey,Jones,HR,Recruiter,2019-11-06,Terminated,P203,64722,1004.0,Non-Binary,Black,66025.67277061519,Mid
+1084,Richard,David,Customer Service,Service Rep,2025-07-15,On Leave,P204,76704,,Male,Black,78325.48304853596,Mid
+1085,John,Wheeler,Water Operations,Water Quality Analyst,2017-03-29,Active,P205,106898,1002.0,Non-Binary,Asian,106785.31588829299,Senior
+1086,Robert,Silva,Engineering,Systems Engineer,2024-09-27,Terminated,P206,73473,1004.0,Non-Binary,Asian,72555.85364438458,Junior
+1087,Leslie,Green,Customer Service,CSR Lead,2021-03-11,Terminated,P207,80257,1002.0,Non-Binary,White,79477.30945128843,Senior
+1088,John,Foster,Finance,Accountant,2020-12-13,On Leave,P208,63248,1001.0,Non-Binary,Hispanic,62961.459041265894,Manager
+1089,Stephen,Hickman,Engineering,Project Engineer,2017-01-29,On Leave,P209,147806,1002.0,Female,Other,140452.25368224963,Junior
+1090,Albert,Howell,Water Operations,Operations Supervisor,2025-06-04,Terminated,P210,74168,1005.0,Non-Binary,Asian,75168.08535813258,Senior
+1091,Wendy,Jones,HR,HR Specialist,2019-06-22,Active,P211,86158,1006.0,Male,Other,85276.74037713988,Manager
+1092,William,Anderson,Water Operations,Water Quality Analyst,2021-10-13,Active,P212,89219,,Male,Asian,87153.90881775744,Senior
+1093,Nicole,Suarez,Engineering,Systems Engineer,2022-02-18,On Leave,P213,103025,1003.0,Female,Other,103827.91132878845,Manager
+1094,Justin,Kim,HR,HR Manager,2025-02-01,On Leave,P214,144080,1007.0,Female,White,137537.9456728896,Manager
+1095,Jade,Carr,Infrastructure,Civil Engineer,2024-11-04,Terminated,P215,103404,,Male,White,107844.50770424352,Mid
+1096,Alan,Montoya,HR,HR Manager,2020-12-09,Active,P216,136099,1003.0,Female,Asian,129303.24936028657,Manager
+1097,Sarah,Garcia,HR,HR Analyst,2018-02-17,Terminated,P217,116959,1004.0,Male,Black,121428.56203345883,Senior
+1098,Joseph,Preston,Engineering,Project Engineer,2025-04-04,On Leave,P218,139457,1007.0,Male,Hispanic,133785.84142219936,Senior
+1099,Eric,Campbell,HR,HR Specialist,2019-06-06,Terminated,P219,84914,1003.0,Female,White,83825.77416859574,Mid

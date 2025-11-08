@@ -1,0 +1,101 @@
+position_id,department,job_title,fte,budgeted_salary,filled,incumbent_employee_id,position_status,funding_source,location
+1000,Water Resources,HR Analyst,1.0,135447.3,True,,Filled,Federal Grant,Oakland
+1001,Water Resources,HR Analyst,0.5,135363.44,True,10161,Filled,General Fund,Berkeley
+1002,Operations,HR Analyst,1.0,73901.05,True,,Filled,General Fund,Berkeley
+1003,Finance,Technician,0.5,131625.87,False,,Vacant,Federal Grant,San Mateo
+1004,Public Works,Engineer,1.0,137086.7,True,,Filled,Internal Budget,Daly City
+1005,IT,Sys Admin,1.0,155935.24,False,,Vacant,General Fund,San Francisco
+1006,Operations,HR Analyst,0.75,145511.96,True,10041,Filled,State Grant,San Francisco
+1007,Water Resources,Data Analyst,0.5,76858.49,False,,Vacant,General Fund,Berkeley
+1008,IT,Clerk,0.5,123759.38,False,,Vacant,Federal Grant,San Francisco
+1009,Human Resources,Technician,1.0,138441.49,True,,Filled,Federal Grant,San Francisco
+1010,Operations,Engineer,0.75,125390.02,False,,Vacant,Federal Grant,Daly City
+1011,IT,Sys Admin,0.5,90362.89,False,,Vacant,General Fund,Berkeley
+1012,Water Resources,Sys Admin,0.5,134267.05,True,,Filled,Internal Budget,San Mateo
+1013,IT,Technician,0.5,117910.23,False,,Vacant,State Grant,San Francisco
+1014,Finance,Clerk,1.0,141479.35,False,,Vacant,State Grant,San Francisco
+1015,Finance,Manager,0.5,94894.4,False,,Vacant,Internal Budget,San Mateo
+1016,Water Resources,Data Analyst,1.0,90163.62,True,,Filled,State Grant,Berkeley
+1017,Operations,Manager,0.75,99389.66,True,,Filled,Internal Budget,San Francisco
+1018,Planning,HR Analyst,1.0,79519.93,True,,Filled,Internal Budget,Berkeley
+1019,Human Resources,Data Analyst,0.75,121609.4,False,,Vacant,State Grant,Berkeley
+1020,Planning,HR Analyst,0.5,133468.57,False,,Vacant,State Grant,Daly City
+1021,Human Resources,Engineer,0.75,80024.99,True,,Filled,State Grant,Berkeley
+1022,Planning,Sys Admin,0.5,151699.64,False,,Vacant,State Grant,Berkeley
+1023,Public Works,Sys Admin,1.0,100521.82,True,,Filled,General Fund,Berkeley
+1024,IT,Data Analyst,1.0,75627.43,False,,Vacant,State Grant,Oakland
+1025,Human Resources,Sys Admin,0.5,154960.2,True,,Filled,Internal Budget,San Francisco
+1026,Planning,Manager,1.0,77197.19,False,,Vacant,Federal Grant,Daly City
+1027,Public Works,Clerk,0.5,105198.1,True,,Filled,Federal Grant,Daly City
+1028,Operations,Technician,0.5,100474.95,False,,Vacant,Internal Budget,San Francisco
+1029,Finance,Sys Admin,1.0,97118.13,False,,Vacant,Federal Grant,Berkeley
+1030,Finance,HR Analyst,1.0,132244.89,True,,Filled,Federal Grant,San Francisco
+1031,Human Resources,Clerk,0.75,71731.45,True,,Filled,State Grant,San Mateo
+1032,Finance,Manager,1.0,133718.49,False,,Vacant,Internal Budget,Oakland
+1033,Planning,Data Analyst,0.75,83088.94,True,,Filled,Internal Budget,Daly City
+1034,Operations,Data Analyst,0.75,147064.49,True,,Filled,General Fund,San Francisco
+1035,Operations,Technician,0.75,141056.29,True,,Filled,Federal Grant,Oakland
+1036,Finance,Manager,0.75,78317.32,True,,Filled,State Grant,San Mateo
+1037,Finance,Clerk,1.0,107097.42,False,,Vacant,General Fund,San Francisco
+1038,Water Resources,Manager,1.0,157054.64,True,,Filled,Federal Grant,San Mateo
+1039,Operations,Data Analyst,1.0,147141.79,True,,Filled,Federal Grant,San Mateo
+1040,Human Resources,Data Analyst,0.75,153019.22,False,,Vacant,State Grant,San Mateo
+1041,Water Resources,Technician,0.5,127877.77,False,,Vacant,Federal Grant,Oakland
+1042,IT,Sys Admin,1.0,120022.13,False,,Vacant,General Fund,Daly City
+1043,Human Resources,HR Analyst,0.5,110294.91,False,,Vacant,Federal Grant,San Francisco
+1044,Public Works,HR Analyst,1.0,71509.53,True,,Filled,Federal Grant,San Mateo
+1045,Human Resources,Manager,1.0,119997.31,True,,Filled,General Fund,San Mateo
+1046,Water Resources,Manager,0.5,114664.36,True,10187,Filled,Federal Grant,Daly City
+1047,Finance,Engineer,0.75,77433.44,False,,Vacant,State Grant,San Mateo
+1048,IT,Clerk,1.0,65884.97,False,,Vacant,General Fund,San Francisco
+1049,Public Works,Sys Admin,0.5,90194.04,False,,Vacant,General Fund,Oakland
+1050,IT,Engineer,1.0,106627.53,False,,Vacant,State Grant,Berkeley
+1051,Planning,Technician,0.5,65743.2,False,,Vacant,State Grant,San Francisco
+1052,Finance,Engineer,1.0,149522.71,False,,Vacant,Federal Grant,Daly City
+1053,IT,Manager,1.0,133173.16,True,,Filled,State Grant,Berkeley
+1054,Operations,Engineer,1.0,73768.35,False,,Vacant,State Grant,San Francisco
+1055,Human Resources,Engineer,1.0,125525.77,False,,Vacant,Federal Grant,San Mateo
+1056,Public Works,Technician,0.75,118286.15,True,,Filled,General Fund,Oakland
+1057,Public Works,HR Analyst,0.75,120338.41,True,,Filled,Internal Budget,Oakland
+1058,Human Resources,Engineer,0.75,150403.24,True,,Filled,State Grant,Oakland
+1059,Water Resources,Sys Admin,0.5,74765.39,False,,Vacant,Internal Budget,Berkeley
+1060,Water Resources,Sys Admin,1.0,147137.54,True,,Filled,Internal Budget,San Francisco
+1061,Finance,Technician,0.75,139326.72,False,,Vacant,Federal Grant,Daly City
+1062,Finance,Clerk,0.5,75269.08,True,,Filled,Internal Budget,Oakland
+1063,Finance,Clerk,0.75,98217.55,True,,Filled,Federal Grant,San Francisco
+1064,Water Resources,Sys Admin,0.75,96184.89,True,,Filled,State Grant,Daly City
+1065,Water Resources,Manager,0.75,129554.22,False,,Vacant,State Grant,San Francisco
+1066,Human Resources,Engineer,1.0,120156.02,False,,Vacant,General Fund,San Francisco
+1067,Public Works,Data Analyst,0.75,134211.78,True,10138,Filled,Internal Budget,Berkeley
+1068,Public Works,HR Analyst,0.75,150452.95,True,,Filled,State Grant,San Francisco
+1069,Water Resources,Data Analyst,1.0,114392.43,False,,Vacant,Federal Grant,Daly City
+1070,Operations,HR Analyst,0.5,152473.23,False,,Vacant,State Grant,San Francisco
+1071,Water Resources,Engineer,0.5,94382.04,True,10040,Filled,State Grant,San Mateo
+1072,Water Resources,Engineer,0.5,77092.34,False,,Vacant,Internal Budget,Oakland
+1073,Public Works,Manager,0.75,103577.14,True,,Filled,State Grant,Daly City
+1074,Finance,Data Analyst,0.5,122632.85,False,,Vacant,Internal Budget,San Mateo
+1075,Operations,Technician,1.0,113561.53,False,,Vacant,Federal Grant,San Francisco
+1076,IT,Manager,0.5,125129.38,False,,Vacant,General Fund,Oakland
+1077,Water Resources,Engineer,1.0,141623.47,True,,Filled,General Fund,San Francisco
+1078,Finance,Data Analyst,0.5,145725.08,True,,Filled,Internal Budget,San Mateo
+1079,Water Resources,Manager,1.0,133242.86,False,,Vacant,Internal Budget,San Mateo
+1080,Finance,Sys Admin,0.5,130324.13,True,,Filled,Internal Budget,Oakland
+1081,Finance,Clerk,0.5,114205.99,True,,Filled,Federal Grant,San Francisco
+1082,Operations,Sys Admin,0.75,128419.88,False,,Vacant,State Grant,San Mateo
+1083,Public Works,Clerk,0.5,149741.93,True,10147,Filled,Internal Budget,Oakland
+1084,Water Resources,Clerk,0.75,107756.63,True,,Filled,State Grant,Berkeley
+1085,Operations,Technician,1.0,91086.76,True,,Filled,State Grant,Oakland
+1086,IT,Engineer,0.75,149837.55,True,,Filled,Federal Grant,Oakland
+1087,Finance,Data Analyst,0.5,79516.5,True,,Filled,General Fund,San Mateo
+1088,Operations,Engineer,0.5,109262.81,True,,Filled,Federal Grant,San Mateo
+1089,Operations,Clerk,0.5,154875.89,True,,Filled,Internal Budget,San Mateo
+1090,Human Resources,Engineer,0.75,136580.14,False,,Vacant,Federal Grant,San Mateo
+1091,Finance,Engineer,0.75,111135.99,False,,Vacant,State Grant,San Mateo
+1092,Water Resources,Sys Admin,0.75,152356.45,False,,Vacant,General Fund,San Mateo
+1093,Public Works,Manager,0.5,67574.69,False,,Vacant,Internal Budget,Oakland
+1094,Planning,Data Analyst,1.0,69777.04,False,,Vacant,State Grant,Oakland
+1095,Operations,Engineer,0.75,137316.82,False,,Vacant,State Grant,San Mateo
+1096,IT,Clerk,1.0,109679.15,False,,Vacant,General Fund,Daly City
+1097,Finance,Technician,1.0,139217.14,False,,Vacant,General Fund,San Francisco
+1098,Finance,Sys Admin,1.0,124026.89,True,,Filled,Federal Grant,San Mateo
+1099,Water Resources,HR Analyst,0.5,155036.92,False,,Vacant,State Grant,Daly City

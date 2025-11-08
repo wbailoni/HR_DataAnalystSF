@@ -1,0 +1,101 @@
+employee_id,first_name,last_name,department,job_title,hire_date,employment_status,position_id,salary,supervisor_id
+1000,Danielle,Johnson,Engineering,Systems Engineer,2020-07-10,Active,P120,96048,1002.0
+1001,John,Taylor,Finance,Accountant,2017-08-03,Terminated,P121,73434,1009.0
+1002,Erica,Mcclain,Engineering,Systems Engineer,2017-04-29,Terminated,P122,115302,
+1003,Brittany,Johnson,HR,HR Analyst,2017-06-10,Active,P123,90495,1007.0
+1004,Jeffery,Wagner,Customer Service,Service Rep,2016-04-18,Terminated,P124,86062,1009.0
+1005,Anna,Baldwin,Engineering,Project Engineer,2025-02-12,Active,P125,118878,1008.0
+1006,Robert,Cole,Water Operations,Operations Supervisor,2020-07-30,Active,P126,115392,1004.0
+1007,Lisa,Smith,Water Operations,Operations Supervisor,2018-07-25,Active,P127,104118,1000.0
+1008,Helen,Peterson,HR,HR Specialist,2018-06-29,Active,P128,107052,1004.0
+1009,Jason,Gallagher,Customer Service,CSR Lead,2017-08-02,Active,P129,120217,1007.0
+1010,Christopher,Davis,HR,HR Specialist,2021-09-12,Active,P130,132357,1003.0
+1011,Cassandra,Roman,Engineering,Project Engineer,2023-08-30,Terminated,P131,85203,1000.0
+1012,Amanda,Dudley,HR,Recruiter,2022-04-15,On Leave,P132,70458,1002.0
+1013,Christian,Carter,HR,HR Specialist,2021-12-31,On Leave,P133,119429,1009.0
+1014,Barbara,Bush,Water Operations,Operations Supervisor,2016-08-16,On Leave,P134,106566,1002.0
+1015,Donna,Mejia,Engineering,Project Engineer,2017-03-15,Terminated,P135,149593,1009.0
+1016,Melissa,Delacruz,HR,Recruiter,2022-04-25,Terminated,P136,92087,1001.0
+1017,Joshua,Reid,Infrastructure,Engineer II,2022-01-19,On Leave,P137,143886,1007.0
+1018,Francisco,Kelly,Finance,Budget Officer,2020-05-21,On Leave,P138,67331,1002.0
+1019,Jacqueline,Sutton,HR,HR Manager,2017-01-22,On Leave,P139,95093,1000.0
+1020,Chelsea,Jackson,Finance,Budget Officer,2020-01-05,Terminated,P140,101245,1002.0
+1021,Frank,Gray,Engineering,Project Engineer,2025-04-27,On Leave,P141,144259,1006.0
+1022,Jeffrey,Nguyen,Finance,Financial Analyst,2016-10-18,Active,P142,92325,1007.0
+1023,Jeremy,Johnson,Customer Service,CSR Lead,2021-03-19,Terminated,P143,136622,1005.0
+1024,Richard,Jones,Customer Service,CSR Lead,2025-06-30,On Leave,P144,88746,1001.0
+1025,Nancy,Edwards,Customer Service,CSR Lead,2024-05-04,Active,P145,66175,1000.0
+1026,Randall,Rocha,Finance,Budget Officer,2023-08-27,Active,P146,149192,1005.0
+1027,Douglas,Taylor,Customer Service,Service Rep,2025-05-25,On Leave,P147,110019,1008.0
+1028,Amber,Burgess,Infrastructure,Civil Engineer,2023-02-19,On Leave,P148,132512,
+1029,Rachael,Ross,Engineering,Systems Engineer,2019-07-30,Terminated,P149,130381,1003.0
+1030,Wendy,Taylor,Engineering,Project Engineer,2024-03-29,Active,P150,98469,1005.0
+1031,Christopher,Williams,Finance,Financial Analyst,2017-09-17,Active,P151,94522,1007.0
+1032,Eric,Moore,Finance,Budget Officer,2023-01-11,Active,P152,141959,1003.0
+1033,Candace,Cruz,Engineering,Systems Engineer,2023-10-23,Active,P153,109009,1001.0
+1034,Allison,Maddox,Customer Service,Service Rep,2016-01-16,Terminated,P154,102487,1006.0
+1035,Erin,Wilson,HR,HR Analyst,2024-12-24,On Leave,P155,100306,1002.0
+1036,Karen,Mack,HR,Recruiter,2021-08-19,Terminated,P156,70322,1000.0
+1037,Daniel,Graham,Engineering,Project Engineer,2023-07-26,Active,P157,129822,1001.0
+1038,Aaron,Bowen,Finance,Budget Officer,2020-04-29,On Leave,P158,132063,1001.0
+1039,Teresa,Gill,Water Operations,Water Quality Analyst,2024-06-25,Active,P159,130686,1002.0
+1040,Rita,Harrell,Engineering,Project Engineer,2020-12-03,On Leave,P160,148039,1009.0
+1041,Meagan,Romero,Water Operations,Water Quality Analyst,2019-03-25,Terminated,P161,119177,1000.0
+1042,Eric,Farmer,Finance,Accountant,2025-01-08,Active,P162,104313,
+1043,Stephanie,Nielsen,Customer Service,Service Rep,2015-11-09,Terminated,P163,88864,
+1044,Carol,Burns,HR,HR Analyst,2017-10-01,Active,P164,68834,
+1045,Sarah,Koch,Water Operations,Operations Supervisor,2021-01-28,Terminated,P165,91195,1003.0
+1046,John,Allen,Engineering,Project Engineer,2025-07-01,Active,P166,130678,1001.0
+1047,Stacey,Miller,Engineering,Project Engineer,2024-02-11,Active,P167,121993,1005.0
+1048,Lisa,Spence,Finance,Accountant,2024-11-28,Active,P168,146374,1005.0
+1049,Katie,Anderson,Water Operations,Water Quality Analyst,2023-12-07,On Leave,P169,121213,
+1050,Stacey,Martin,Engineering,Systems Engineer,2024-10-27,Active,P170,112772,1004.0
+1051,Monique,Henderson,HR,Recruiter,2019-06-14,Active,P171,84931,1007.0
+1052,Sarah,Campos,Infrastructure,Engineer I,2019-04-08,On Leave,P172,84050,1003.0
+1053,Jennifer,Ross,Infrastructure,Engineer I,2022-03-14,Active,P173,118082,1007.0
+1054,Samuel,Holmes,HR,HR Analyst,2017-11-26,Terminated,P174,130855,
+1055,John,Brown,HR,Recruiter,2016-03-15,Active,P175,113269,1006.0
+1056,Brianna,Hall,Infrastructure,Engineer I,2019-08-05,On Leave,P176,67685,1001.0
+1057,Adrian,Zimmerman,Infrastructure,Engineer I,2016-11-05,On Leave,P177,94760,1006.0
+1058,Jeremy,Whitehead,Water Operations,Water Quality Analyst,2021-06-20,Terminated,P178,132845,1009.0
+1059,Chad,Young,Engineering,Project Engineer,2024-02-08,Active,P179,84890,1003.0
+1060,Jason,Anderson,Finance,Accountant,2025-07-24,Terminated,P180,131066,
+1061,Barbara,Sanchez,Engineering,Project Engineer,2023-11-22,Active,P181,66572,1008.0
+1062,Lindsey,Lee,Infrastructure,Civil Engineer,2017-06-30,Terminated,P182,80635,
+1063,Donna,Gomez,Customer Service,Service Rep,2022-11-03,Active,P183,68981,1008.0
+1064,Stuart,Daniel,HR,Recruiter,2017-07-09,On Leave,P184,75713,1008.0
+1065,Bruce,Chandler,Finance,Budget Officer,2017-09-14,Terminated,P185,65209,1008.0
+1066,John,Lee,HR,HR Specialist,2023-06-24,Terminated,P186,136503,1008.0
+1067,Donald,White,Customer Service,CSR Lead,2023-09-19,On Leave,P187,86772,1009.0
+1068,John,Leblanc,Engineering,Project Engineer,2023-05-21,Active,P188,94814,1005.0
+1069,Lindsey,Chase,Finance,Budget Officer,2017-07-06,Terminated,P189,99321,1006.0
+1070,Brent,Kidd,Water Operations,Operations Supervisor,2016-02-05,Active,P190,120068,1008.0
+1071,Tanya,House,Customer Service,Service Rep,2019-11-13,Active,P191,130468,1002.0
+1072,Gabriel,Tucker,Customer Service,CSR Lead,2019-06-26,Active,P192,105745,1000.0
+1073,Michelle,Barrera,Finance,Financial Analyst,2018-08-25,On Leave,P193,80676,1006.0
+1074,Nicholas,Galloway,Customer Service,CSR Lead,2020-05-10,Terminated,P194,145717,1007.0
+1075,Sara,Glover,HR,HR Manager,2020-09-12,Terminated,P195,73577,1001.0
+1076,Rodney,Bernard,Water Operations,Operations Supervisor,2025-04-20,Active,P196,132512,1001.0
+1077,Dorothy,Tucker,Water Operations,Water Quality Analyst,2019-01-28,Terminated,P197,87607,1004.0
+1078,Kenneth,Novak,Finance,Budget Officer,2025-09-12,Terminated,P198,94600,1007.0
+1079,Jill,Brown,Infrastructure,Engineer II,2021-03-07,Active,P199,72097,1009.0
+1080,Brian,Silva,Infrastructure,Engineer II,2024-05-26,Active,P200,60464,1004.0
+1081,Samantha,Schmidt,Finance,Budget Officer,2016-10-24,On Leave,P201,81178,1006.0
+1082,Susan,Miller,Customer Service,CSR Lead,2019-01-03,Terminated,P202,61267,1000.0
+1083,Casey,Jones,HR,Recruiter,2019-11-06,Terminated,P203,64722,1004.0
+1084,Richard,David,Customer Service,Service Rep,2025-07-15,On Leave,P204,76704,
+1085,John,Wheeler,Water Operations,Water Quality Analyst,2017-03-29,Active,P205,106898,1002.0
+1086,Robert,Silva,Engineering,Systems Engineer,2024-09-27,Terminated,P206,73473,1004.0
+1087,Leslie,Green,Customer Service,CSR Lead,2021-03-11,Terminated,P207,80257,1002.0
+1088,John,Foster,Finance,Accountant,2020-12-13,On Leave,P208,63248,1001.0
+1089,Stephen,Hickman,Engineering,Project Engineer,2017-01-29,On Leave,P209,147806,1002.0
+1090,Albert,Howell,Water Operations,Operations Supervisor,2025-06-04,Terminated,P210,74168,1005.0
+1091,Wendy,Jones,HR,HR Specialist,2019-06-22,Active,P211,86158,1006.0
+1092,William,Anderson,Water Operations,Water Quality Analyst,2021-10-13,Active,P212,89219,
+1093,Nicole,Suarez,Engineering,Systems Engineer,2022-02-18,On Leave,P213,103025,1003.0
+1094,Justin,Kim,HR,HR Manager,2025-02-01,On Leave,P214,144080,1007.0
+1095,Jade,Carr,Infrastructure,Civil Engineer,2024-11-04,Terminated,P215,103404,
+1096,Alan,Montoya,HR,HR Manager,2020-12-09,Active,P216,136099,1003.0
+1097,Sarah,Garcia,HR,HR Analyst,2018-02-17,Terminated,P217,116959,1004.0
+1098,Joseph,Preston,Engineering,Project Engineer,2025-04-04,On Leave,P218,139457,1007.0
+1099,Eric,Campbell,HR,HR Specialist,2019-06-06,Terminated,P219,84914,1003.0

@@ -1,0 +1,101 @@
+applicant_id,job_id,job_title,application_date,status,hire_date,source,recruiter,department
+A001,J500,HR Specialist,2025-03-18,Hired,2025-08-10,GovernmentJobs,Mark Baker,HR
+A002,J501,Service Rep,2025-05-13,Rejected,,Employee Referral,Terry Williams,Customer Service
+A003,J502,HR Manager,2025-07-09,Screening,,City Portal,Donald Smith,HR
+A004,J503,Systems Engineer,2025-08-31,Rejected,,GovernmentJobs,William Martin,Engineering
+A005,J504,Water Quality Analyst,2025-04-25,Rejected,,Employee Referral,Jessica Smith,Water Operations
+A006,J505,Project Engineer,2024-12-04,Screening,,Indeed,Melissa Hernandez,Engineering
+A007,J506,Financial Analyst,2024-11-18,Offer Extended,,Career Fair,Lauren Hernandez,Finance
+A008,J507,Systems Engineer,2024-12-24,Screening,,GovernmentJobs,Jacob Fitzpatrick,Engineering
+A009,J508,Water Quality Analyst,2025-10-05,Screening,,LinkedIn,Hunter Fleming,Water Operations
+A010,J509,Water Quality Analyst,2025-07-22,Interviewing,,Employee Referral,Richard Henson,Water Operations
+A011,J510,CSR Lead,2025-04-11,Offer Extended,,Employee Referral,Nicole Frost,Customer Service
+A012,J511,Civil Engineer,2025-02-04,Interviewing,,GovernmentJobs,Vanessa Cochran,Infrastructure
+A013,J512,Civil Engineer,2025-10-13,Interviewing,,Career Fair,Christopher Middleton,Infrastructure
+A014,J513,HR Manager,2025-09-04,Screening,,Career Fair,Rebekah Shields,HR
+A015,J514,Project Engineer,2025-02-09,Hired,2025-09-15,Indeed,Richard Rodriguez,Engineering
+A016,J515,Project Engineer,2025-10-09,Interviewing,,Indeed,John Gonzalez,Engineering
+A017,J516,Accountant,2025-05-02,Hired,2025-10-27,Indeed,Robert Savage,Finance
+A018,J517,Civil Engineer,2024-11-14,Hired,2025-01-30,Employee Referral,Jennifer Ramirez,Infrastructure
+A019,J518,Civil Engineer,2024-12-01,Screening,,Indeed,Diana May,Infrastructure
+A020,J519,Project Engineer,2025-04-09,Offer Extended,,Employee Referral,Sarah Rivera,Engineering
+A021,J520,Accountant,2024-12-19,Hired,2024-11-15,LinkedIn,Debbie Carpenter,Finance
+A022,J521,Engineer I,2025-02-16,Interviewing,,Career Fair,Kyle Reed,Infrastructure
+A023,J522,CSR Lead,2025-03-06,Hired,2025-09-06,GovernmentJobs,William Wilson,Customer Service
+A024,J523,Accountant,2025-10-20,Offer Extended,,Indeed,Dawn Fletcher,Finance
+A025,J524,Civil Engineer,2024-11-05,Screening,,GovernmentJobs,Renee Mcdaniel,Infrastructure
+A026,J525,CSR Lead,2025-11-05,Offer Extended,,GovernmentJobs,Megan Diaz,Customer Service
+A027,J526,Project Engineer,2024-12-02,Screening,,Employee Referral,Tammie Hanson,Engineering
+A028,J527,Budget Officer,2025-07-20,Offer Extended,,Employee Referral,Michelle Evans,Finance
+A029,J528,Operations Supervisor,2025-03-05,Rejected,,GovernmentJobs,Erika Terry,Water Operations
+A030,J529,Civil Engineer,2025-06-08,Interviewing,,City Portal,Jason Bentley,Infrastructure
+A031,J530,Engineer I,2025-07-26,Rejected,,Indeed,Carrie Carroll,Infrastructure
+A032,J531,Water Quality Analyst,2025-04-11,Rejected,,GovernmentJobs,April Mitchell,Water Operations
+A033,J532,Recruiter,2025-04-20,Interviewing,,Indeed,Lisa Morris,HR
+A034,J533,Civil Engineer,2025-04-25,Interviewing,,Career Fair,Daniel Kennedy,Infrastructure
+A035,J534,Accountant,2025-10-20,Offer Extended,,Employee Referral,Nancy Hopkins,Finance
+A036,J535,Water Quality Analyst,2025-02-23,Offer Extended,,LinkedIn,Mackenzie Rogers,Water Operations
+A037,J536,Financial Analyst,2025-09-18,Offer Extended,,GovernmentJobs,Cynthia Collins,Finance
+A038,J537,Systems Engineer,2025-09-14,Screening,,Employee Referral,Alexander Sanchez,Engineering
+A039,J538,Engineer I,2025-05-08,Rejected,,City Portal,Patricia Gibson,Infrastructure
+A040,J539,Engineer II,2025-10-15,Screening,,Career Fair,Cheyenne Horton,Infrastructure
+A041,J540,Systems Engineer,2025-05-15,Offer Extended,,Indeed,Charles Watts,Engineering
+A042,J541,Water Quality Analyst,2025-10-17,Offer Extended,,LinkedIn,Patricia Rodriguez,Water Operations
+A043,J542,Engineer II,2025-04-19,Offer Extended,,Career Fair,Robert Dominguez,Infrastructure
+A044,J543,Financial Analyst,2025-05-04,Interviewing,,GovernmentJobs,David Charles,Finance
+A045,J544,Service Rep,2025-05-01,Offer Extended,,GovernmentJobs,John Schmidt,Customer Service
+A046,J545,Service Rep,2025-06-24,Hired,2025-06-10,Career Fair,Pedro Ramos,Customer Service
+A047,J546,Engineer I,2025-09-17,Offer Extended,,Indeed,Kathy Rivas,Infrastructure
+A048,J547,HR Manager,2025-06-05,Offer Extended,,City Portal,Christopher Hensley,HR
+A049,J548,Financial Analyst,2025-04-28,Rejected,,City Portal,David Walsh,Finance
+A050,J549,Engineer II,2025-08-29,Offer Extended,,City Portal,Kari Allen,Infrastructure
+A051,J550,HR Specialist,2024-12-05,Hired,2025-04-24,Career Fair,Cynthia Rogers,HR
+A052,J551,Service Rep,2025-10-17,Rejected,,Indeed,Brenda Hall,Customer Service
+A053,J552,Systems Engineer,2025-01-03,Hired,2025-08-01,LinkedIn,Amy Russell,Engineering
+A054,J553,Accountant,2025-05-04,Hired,2025-06-03,GovernmentJobs,Daniel Fisher,Finance
+A055,J554,Accountant,2025-10-22,Interviewing,,Employee Referral,Theresa Smith,Finance
+A056,J555,Systems Engineer,2025-10-13,Screening,,Indeed,Jamie Smith,Engineering
+A057,J556,Civil Engineer,2025-03-21,Rejected,,City Portal,James Snow,Infrastructure
+A058,J557,Budget Officer,2025-09-25,Screening,,Career Fair,Paul Payne,Finance
+A059,J558,Systems Engineer,2025-06-27,Interviewing,,City Portal,Katherine Nelson,Engineering
+A060,J559,HR Analyst,2025-05-12,Rejected,,GovernmentJobs,George Shelton,HR
+A061,J560,Project Engineer,2025-04-11,Offer Extended,,Career Fair,Sara Calhoun,Engineering
+A062,J561,Accountant,2025-07-04,Screening,,Career Fair,Susan Vargas,Finance
+A063,J562,Systems Engineer,2024-11-15,Hired,2025-07-20,Career Fair,Jeffrey Camacho,Engineering
+A064,J563,Operations Supervisor,2025-01-14,Screening,,LinkedIn,James Lewis,Water Operations
+A065,J564,Water Quality Analyst,2025-03-11,Rejected,,LinkedIn,Shawn Ramirez,Water Operations
+A066,J565,CSR Lead,2025-04-17,Hired,2025-09-24,Employee Referral,Bradley Smith,Customer Service
+A067,J566,Engineer I,2025-06-02,Offer Extended,,City Portal,Trevor Walker,Infrastructure
+A068,J567,Project Engineer,2024-12-01,Interviewing,,Employee Referral,Marissa Webster,Engineering
+A069,J568,Budget Officer,2025-02-09,Screening,,Career Fair,Alex Hernandez,Finance
+A070,J569,Water Quality Analyst,2024-12-24,Offer Extended,,Employee Referral,Brian Gould,Water Operations
+A071,J570,Project Engineer,2025-05-04,Rejected,,Indeed,Pamela Jackson,Engineering
+A072,J571,HR Manager,2025-06-28,Offer Extended,,Indeed,Michelle Strickland,HR
+A073,J572,Civil Engineer,2025-01-07,Screening,,Career Fair,Ashley Johnson,Infrastructure
+A074,J573,Engineer II,2025-06-16,Hired,2025-03-06,Employee Referral,Tina Sanders,Infrastructure
+A075,J574,Operations Supervisor,2025-08-09,Offer Extended,,Indeed,Kevin Rivas,Water Operations
+A076,J575,Water Quality Analyst,2025-02-07,Rejected,,City Portal,Raymond Jefferson,Water Operations
+A077,J576,CSR Lead,2025-06-26,Screening,,LinkedIn,Rebecca Knight,Customer Service
+A078,J577,Service Rep,2025-03-19,Hired,2024-11-20,Indeed,Mary Jones,Customer Service
+A079,J578,Project Engineer,2025-07-14,Offer Extended,,GovernmentJobs,Samuel Short,Engineering
+A080,J579,Budget Officer,2024-12-15,Offer Extended,,Career Fair,Jack Snow,Finance
+A081,J580,Project Engineer,2025-05-02,Offer Extended,,LinkedIn,Jessica Gross,Engineering
+A082,J581,HR Manager,2025-07-15,Interviewing,,Employee Referral,Robert Medina,HR
+A083,J582,Systems Engineer,2025-05-11,Rejected,,Career Fair,Roger Vargas,Engineering
+A084,J583,CSR Lead,2025-03-10,Offer Extended,,GovernmentJobs,Sandra Miller,Customer Service
+A085,J584,CSR Lead,2025-10-13,Offer Extended,,Career Fair,Paul Hudson,Customer Service
+A086,J585,CSR Lead,2025-07-22,Rejected,,Career Fair,Allen Rosales,Customer Service
+A087,J586,Engineer II,2025-01-14,Rejected,,City Portal,Mr. David Ramirez,Infrastructure
+A088,J587,Accountant,2025-06-24,Interviewing,,City Portal,Desiree Smith,Finance
+A089,J588,Recruiter,2025-01-18,Interviewing,,Indeed,Nathan Freeman,HR
+A090,J589,Project Engineer,2025-08-26,Rejected,,Career Fair,John Joseph,Engineering
+A091,J590,CSR Lead,2025-09-08,Hired,2025-04-28,Indeed,Edward Sullivan,Customer Service
+A092,J591,Operations Supervisor,2025-02-07,Rejected,,Indeed,Kevin Kennedy,Water Operations
+A093,J592,Operations Supervisor,2025-05-30,Screening,,Indeed,Zachary Pierce,Water Operations
+A094,J593,Operations Supervisor,2025-08-04,Hired,2025-03-21,GovernmentJobs,Eric Hall,Water Operations
+A095,J594,Operations Supervisor,2025-08-12,Offer Extended,,LinkedIn,Bryan Herrera,Water Operations
+A096,J595,HR Manager,2025-08-28,Offer Extended,,Employee Referral,Cheryl Rodgers,HR
+A097,J596,Engineer II,2025-02-20,Interviewing,,LinkedIn,Vanessa Warren,Infrastructure
+A098,J597,Water Quality Analyst,2024-12-14,Hired,2025-02-22,LinkedIn,Elizabeth Ward,Water Operations
+A099,J598,Engineer II,2024-11-10,Hired,2025-03-02,GovernmentJobs,Beth Williams,Infrastructure
+A100,J599,Systems Engineer,2024-11-26,Interviewing,,Indeed,Melissa Martinez,Engineering

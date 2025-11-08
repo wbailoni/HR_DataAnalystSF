@@ -1,0 +1,7 @@
+employee_id,first_name,last_name,department,job_title,hire_date,employment_status,supervisor_id,gender,race_ethnicity,salary
+10040,John,Tran,Water Resources,Engineer,2024-12-15,Active,10010,Non-binary,Black,146871.92
+10041,Erin,Wilson,Operations,HR Analyst,2025-11-14,Active,10009,Female,Asian,146937.01
+10138,Michelle,Rasmussen,Public Works,Data Analyst,2025-03-23,Active,10006,Female,Asian,104293.79
+10147,Ryan,Meyer,Public Works,Clerk,2025-10-13,Active,10008,Female,White,108717.57
+10161,Laura,Moyer,Water Resources,HR Analyst,2025-09-22,Active,10006,Male,Asian,132354.75
+10187,Eric,Lewis,Water Resources,Manager,2025-05-11,Active,10010,Male,Black,99323.37

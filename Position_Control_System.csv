@@ -1,0 +1,101 @@
+position_id,job_title,department,budgeted_fte,filled_fte,vacancy_status,fund_source,last_updated
+P120,CSR Lead,Customer Service,1.0,1.5,Filled,Grant Fund,2025-10-29
+P121,Service Rep,Customer Service,3.0,3.0,1 Vacancy,Capital Fund,2025-10-18
+P122,CSR Lead,Customer Service,2.0,1.0,2 Vacancies,General Fund,2025-09-22
+P123,Budget Officer,Finance,1.5,2.0,2 Vacancies,General Fund,2025-08-15
+P124,Accountant,Finance,1.5,1.0,Filled,General Fund,2025-10-29
+P125,Engineer II,Infrastructure,3.0,2.0,Filled,Utility Fund,2025-08-07
+P126,Water Quality Analyst,Water Operations,3.0,1.0,2 Vacancies,Utility Fund,2025-09-30
+P127,Operations Supervisor,Water Operations,3.0,1.0,2 Vacancies,Utility Fund,2025-09-02
+P128,Systems Engineer,Engineering,2.0,1.5,Filled,General Fund,2025-09-20
+P129,Financial Analyst,Finance,2.0,3.0,Filled,Grant Fund,2025-09-21
+P130,Project Engineer,Engineering,3.0,2.0,2 Vacancies,Grant Fund,2025-09-17
+P131,Engineer I,Infrastructure,1.0,3.0,2 Vacancies,Capital Fund,2025-09-08
+P132,CSR Lead,Customer Service,1.0,1.0,Filled,General Fund,2025-08-23
+P133,Project Engineer,Engineering,1.0,1.5,1 Vacancy,Grant Fund,2025-08-10
+P134,Operations Supervisor,Water Operations,3.0,3.0,Filled,Grant Fund,2025-08-30
+P135,Water Quality Analyst,Water Operations,2.0,2.0,2 Vacancies,General Fund,2025-11-05
+P136,Financial Analyst,Finance,3.0,3.0,1 Vacancy,Grant Fund,2025-10-28
+P137,Service Rep,Customer Service,3.0,1.0,1 Vacancy,Capital Fund,2025-09-21
+P138,Operations Supervisor,Water Operations,3.0,1.0,2 Vacancies,Grant Fund,2025-08-17
+P139,Engineer I,Infrastructure,1.5,2.0,2 Vacancies,Grant Fund,2025-10-24
+P140,Project Engineer,Engineering,1.0,1.5,1 Vacancy,Utility Fund,2025-08-12
+P141,Water Quality Analyst,Water Operations,3.0,1.0,Filled,Utility Fund,2025-09-13
+P142,Systems Engineer,Engineering,2.0,1.0,2 Vacancies,Grant Fund,2025-09-22
+P143,Recruiter,HR,1.0,3.0,Filled,Utility Fund,2025-08-13
+P144,Civil Engineer,Infrastructure,2.0,2.0,1 Vacancy,Grant Fund,2025-10-01
+P145,Engineer I,Infrastructure,3.0,1.5,1 Vacancy,Utility Fund,2025-10-06
+P146,Service Rep,Customer Service,1.0,2.0,1 Vacancy,Capital Fund,2025-10-11
+P147,CSR Lead,Customer Service,1.0,2.0,2 Vacancies,Capital Fund,2025-08-11
+P148,CSR Lead,Customer Service,1.5,3.0,2 Vacancies,Grant Fund,2025-08-20
+P149,Water Quality Analyst,Water Operations,3.0,3.0,1 Vacancy,Utility Fund,2025-08-20
+P150,Systems Engineer,Engineering,3.0,1.5,1 Vacancy,General Fund,2025-10-23
+P151,Water Quality Analyst,Water Operations,3.0,3.0,2 Vacancies,Utility Fund,2025-09-29
+P152,Engineer I,Infrastructure,1.5,2.0,Filled,Grant Fund,2025-09-04
+P153,HR Specialist,HR,1.0,1.5,1 Vacancy,Utility Fund,2025-08-14
+P154,HR Specialist,HR,2.0,2.0,2 Vacancies,Grant Fund,2025-08-30
+P155,Systems Engineer,Engineering,2.0,3.0,1 Vacancy,Grant Fund,2025-08-17
+P156,Service Rep,Customer Service,1.0,1.5,2 Vacancies,Capital Fund,2025-09-29
+P157,Budget Officer,Finance,1.0,3.0,Filled,General Fund,2025-10-19
+P158,Engineer I,Infrastructure,2.0,1.0,Filled,Capital Fund,2025-09-15
+P159,HR Manager,HR,2.0,2.0,1 Vacancy,Utility Fund,2025-10-03
+P160,Budget Officer,Finance,3.0,1.5,Filled,Utility Fund,2025-10-02
+P161,HR Specialist,HR,1.5,3.0,2 Vacancies,Utility Fund,2025-10-21
+P162,Financial Analyst,Finance,2.0,3.0,1 Vacancy,General Fund,2025-10-05
+P163,Engineer II,Infrastructure,1.5,1.0,1 Vacancy,Capital Fund,2025-08-27
+P164,CSR Lead,Customer Service,3.0,2.0,1 Vacancy,Capital Fund,2025-10-20
+P165,Financial Analyst,Finance,3.0,1.0,Filled,Grant Fund,2025-09-25
+P166,CSR Lead,Customer Service,2.0,2.0,Filled,Grant Fund,2025-09-11
+P167,Operations Supervisor,Water Operations,1.0,3.0,1 Vacancy,Utility Fund,2025-09-18
+P168,CSR Lead,Customer Service,1.5,1.5,2 Vacancies,Capital Fund,2025-11-02
+P169,Systems Engineer,Engineering,1.0,1.0,1 Vacancy,Grant Fund,2025-09-17
+P170,HR Manager,HR,1.5,1.0,1 Vacancy,Capital Fund,2025-09-03
+P171,Project Engineer,Engineering,1.5,1.5,Filled,Capital Fund,2025-10-28
+P172,CSR Lead,Customer Service,1.5,2.0,1 Vacancy,Capital Fund,2025-10-02
+P173,Project Engineer,Engineering,1.0,3.0,Filled,Utility Fund,2025-09-16
+P174,Budget Officer,Finance,3.0,2.0,Filled,Grant Fund,2025-09-04
+P175,HR Manager,HR,1.0,3.0,1 Vacancy,Capital Fund,2025-09-30
+P176,CSR Lead,Customer Service,2.0,1.0,2 Vacancies,Utility Fund,2025-10-05
+P177,Engineer I,Infrastructure,2.0,1.5,2 Vacancies,General Fund,2025-08-11
+P178,Project Engineer,Engineering,2.0,3.0,Filled,Utility Fund,2025-10-04
+P179,HR Analyst,HR,2.0,3.0,Filled,General Fund,2025-10-16
+P180,Budget Officer,Finance,1.5,3.0,1 Vacancy,Capital Fund,2025-08-15
+P181,Project Engineer,Engineering,1.5,3.0,2 Vacancies,General Fund,2025-10-19
+P182,Civil Engineer,Infrastructure,3.0,2.0,Filled,Capital Fund,2025-08-26
+P183,Financial Analyst,Finance,3.0,1.5,1 Vacancy,General Fund,2025-10-05
+P184,Project Engineer,Engineering,2.0,1.0,1 Vacancy,Capital Fund,2025-08-26
+P185,Accountant,Finance,3.0,1.0,2 Vacancies,Utility Fund,2025-08-31
+P186,Systems Engineer,Engineering,1.0,2.0,Filled,Utility Fund,2025-10-09
+P187,Service Rep,Customer Service,1.0,1.5,2 Vacancies,Utility Fund,2025-08-13
+P188,Financial Analyst,Finance,1.5,1.0,1 Vacancy,Utility Fund,2025-08-21
+P189,Budget Officer,Finance,2.0,1.5,Filled,General Fund,2025-08-29
+P190,Accountant,Finance,2.0,1.5,2 Vacancies,Capital Fund,2025-08-22
+P191,Recruiter,HR,2.0,1.0,Filled,Grant Fund,2025-09-28
+P192,Service Rep,Customer Service,1.0,3.0,1 Vacancy,Capital Fund,2025-08-13
+P193,Service Rep,Customer Service,3.0,1.5,2 Vacancies,General Fund,2025-08-21
+P194,Project Engineer,Engineering,3.0,1.0,Filled,Grant Fund,2025-08-06
+P195,Engineer II,Infrastructure,1.0,3.0,2 Vacancies,Grant Fund,2025-09-14
+P196,HR Analyst,HR,2.0,1.5,Filled,Utility Fund,2025-09-18
+P197,Water Quality Analyst,Water Operations,3.0,2.0,1 Vacancy,Grant Fund,2025-10-11
+P198,HR Analyst,HR,1.5,3.0,1 Vacancy,Utility Fund,2025-10-02
+P199,Engineer II,Infrastructure,3.0,3.0,1 Vacancy,General Fund,2025-09-20
+P200,Water Quality Analyst,Water Operations,2.0,2.0,1 Vacancy,Utility Fund,2025-09-03
+P201,Project Engineer,Engineering,1.0,1.0,Filled,General Fund,2025-08-09
+P202,Engineer I,Infrastructure,2.0,1.5,2 Vacancies,General Fund,2025-08-28
+P203,CSR Lead,Customer Service,1.0,3.0,1 Vacancy,Grant Fund,2025-09-02
+P204,Systems Engineer,Engineering,2.0,2.0,1 Vacancy,General Fund,2025-10-13
+P205,Service Rep,Customer Service,1.5,3.0,Filled,General Fund,2025-09-02
+P206,Water Quality Analyst,Water Operations,1.0,2.0,2 Vacancies,Utility Fund,2025-10-13
+P207,Civil Engineer,Infrastructure,1.0,2.0,Filled,Utility Fund,2025-10-28
+P208,Water Quality Analyst,Water Operations,2.0,2.0,Filled,Utility Fund,2025-09-19
+P209,Budget Officer,Finance,3.0,1.0,Filled,General Fund,2025-08-12
+P210,Recruiter,HR,3.0,3.0,1 Vacancy,Capital Fund,2025-10-11
+P211,Financial Analyst,Finance,2.0,2.0,2 Vacancies,General Fund,2025-08-28
+P212,Recruiter,HR,1.5,1.0,2 Vacancies,General Fund,2025-11-03
+P213,Water Quality Analyst,Water Operations,3.0,3.0,2 Vacancies,Grant Fund,2025-08-31
+P214,Engineer II,Infrastructure,1.5,1.0,1 Vacancy,Grant Fund,2025-10-21
+P215,HR Manager,HR,3.0,2.0,Filled,Utility Fund,2025-10-21
+P216,Civil Engineer,Infrastructure,1.0,1.0,Filled,Capital Fund,2025-10-05
+P217,Accountant,Finance,2.0,2.0,1 Vacancy,General Fund,2025-10-02
+P218,HR Specialist,HR,3.0,1.5,Filled,Grant Fund,2025-10-09
+P219,Service Rep,Customer Service,2.0,1.0,1 Vacancy,General Fund,2025-10-23
